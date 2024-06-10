@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Ejemplo Proyecto HardHat
 
 Uso básico de Hardhat con varios tests sobre un contrato solidity para Vottun.
 
